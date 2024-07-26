@@ -1,16 +1,3 @@
-"""
-Program Name: ICS3UI Final Summative 
-Programmer Name: Luna Gao 
-Program Date: June 14, 2023         
-Program Description: An inventory management app for a sports merchandising business  
-Program Input/output:
-Input: Product name and stock quantity 
-       Choose to perform actions such as adding a product, saving products to a file, displaying products, searching for products, and sorting products
-Output: Messages in the GUI text widget for feedback on actions such as adding a product, saving to file, removing a product, updating stock, and searching for products.
-        Details of products in the GUI text widget when displaying products or performing a search.
-        Message box to show information when a product is removed or the stock is updated.
-"""
-
 #Import the tkinter module for GUI
 import tkinter as tk
 #Import the messagebox module from tkinter for displaying message boxes
